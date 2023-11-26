@@ -1,7 +1,7 @@
 # Copyright (C) 2001-2010 Python Software Foundation
 # Author: Barry Warsaw
 # Contact: email-sig@python.org
-
+#Dnia 26.11.2023 KH
 """Classes to generate plain text from a message object tree."""
 
 __all__ = ['Generator', 'DecodedGenerator', 'BytesGenerator']
